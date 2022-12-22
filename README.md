@@ -1,5 +1,6 @@
-<h1>Livro de Receitas<h1>
-Olá! Bem vindo ao meu livro de receitas ;)
+<h1>Livro de Receitas</h1>
+
+<h2>Olá! Bem vindo ao meu livro de receitas ;)</h2>
 
 
 <ul>Tostadas da Tiana</ul>
